@@ -1,5 +1,5 @@
 # Personal-Finance-Tracker
-Description (Optional): "Una semplice applicazione desktop in Java per la gestione delle finanze personali." (A simple Java desktop application for personal finance management.)
+"Una semplice applicazione desktop in Java per la gestione delle finanze personali." (A simple Java desktop application for personal finance management.)
 #Dietro le Quinte di un Progetto Java: La Scelta degli Strumenti e del Linguaggio
 Quando si avvia un nuovo progetto software, le prime decisioni sono spesso le più critiche. Quale linguaggio usare? Quale ambiente di sviluppo scegliere? Per la creazione del mio "Personal Finance Tracker", un'applicazione desktop per la gestione delle finanze personali, ho optato per una combinazione classica e robusta: il linguaggio Java e l'IDE Eclipse. In questo articolo, esploro le ragioni di queste scelte, analizzando perché, in un mondo dominato da editor leggeri come Visual Studio Code, un IDE tradizionale a volte è ancora la scelta vincente e cosa rende Java un linguaggio unico nel suo genere.
 
